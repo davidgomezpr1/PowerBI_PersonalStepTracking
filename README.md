@@ -9,7 +9,7 @@ steps everyday , to ensure I stay active.
 ## Overview
 
 - Structuring of the [data](https://github.com/davidgomezpr1/PowerBI_PersonalStepTracking/blob/Portfolio_Projects/StepTrackingNov21.xlsx) into a Fact(`FACT_Activity`) and Dimension Tables(`DIM_Date` & `DIM_Activity`).
-- Step tracking for November 2021, using my activity trackers. Considered the main two activities (Walking and Hiking). Please note that I only go on hikes on Sundays, due to lack of time during the week.
+- Step tracking for November 2021, using my activity tracking device. Considered the main two activities (Walking and Hiking). Please note that I only go on hikes on Sundays, due to lack of time during the week.
 - Cleaning of data, leveraging the `Power Query Editor`. Creation of table relationships to ensure appropriate data analysis.
 - Leveraging `DAX` to calculate the total steps and average steps taken.
 - Creation of a dashboard with a breakdwon of steps by activity, steps by week of the year and weekday.
