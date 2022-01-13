@@ -13,7 +13,7 @@ steps everyday , to ensure I stay active.
 - Cleaning of data, leveraging the `Power Query Editor`. Creation of table relationships to ensure appropriate data analysis.
 - Leveraging `DAX` to calculate the total steps and average steps taken.
 - Creation of a dashboard with a breakdown of steps by activity, steps by week of the year and weekday.
-- Creation of an alternative dashboard, to showcase the statistics by percentages.
+- Creation of an alternative dashboard, to showcase the statistics by percentages as well as the amount of calories burned. An estimate of 0.045 calories/step was taken, regardless of the activity (1)[https://www.livestrong.com/article/238020-how-to-convert-pedometer-steps-to-calories/].
 
 ## Conclusions
 
