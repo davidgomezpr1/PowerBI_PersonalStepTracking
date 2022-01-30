@@ -1,7 +1,7 @@
 # [Project 3 : Personal Exercise Tracking](https://github.com/davidgomezpr1/PowerBI_PersonalStepTracking)
 ![](https://images.unsplash.com/photo-1448387473223-5c37445527e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
 
-## Business Request
+## Motivation
 
 As a health and fitness enthusiast, I strive to walk at least 10,000 
 steps everyday , to ensure I stay active.
